@@ -24,6 +24,5 @@ Este é um simples relógio digital que exibe a hora atual.
 - [PROJETO FEITO PELO CANAL LARISSA KICH](https://youtu.be/GK0ok3ZCXwM?si=iXp38lO3O_dfcvnc)
 - [PROJETO BAIXADO DE LARISSA KICH](https://github.com/Larissakich/relogiodigital)
 - [PROJETO PUBLICADO PELO VILHALVA](https://github.com/VILHALVA)
-- [ESTÁ DISPONIVEL NO SITE](https://vilhalva.github.io/STYLER/STYLER.html)
 
 
